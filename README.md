@@ -24,13 +24,6 @@ It allows users to **search movies**, **view details**, **explore trending conte
 - **API:** Movie API (TMDb or similar)  
 - **Deployment:** Netlify / Vercel  
 
----
 
 
 
-## 📂 Installation & Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/movie-streaming-app.git
-   cd movie-streaming-app
