@@ -1,12 +1,36 @@
-# React + Vite
+# 🎬 Movie Streaming App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **responsive and feature-rich movie streaming app** built with **React** and **Tailwind CSS**, designed to deliver a **Netflix-like experience**.  
+It allows users to **search movies**, **view details**, **explore trending content**, and **save favorites** using **localStorage**. The app is powered by a **Movie API** and fully optimized for both desktop and mobile screens.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 **Search Movies** – Find movies by title using the integrated movie API  
+- 📖 **Movie Details** – View detailed information including release date, rating, and description  
+- 📈 **Trending Movies** – Explore the latest trending content  
+- ⭐ **Favorites** – Save and manage your favorite movies with localStorage  
+- 📱 **Responsive UI** – Works seamlessly across mobile, tablet, and desktop  
+- ⚡ **Fast & Modern** – Built with React + Tailwind CSS for performance and style  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, React Router  
+- **Styling:** Tailwind CSS  
+- **State Management:** React Hooks, LocalStorage  
+- **API:** Movie API (TMDb or similar)  
+- **Deployment:** Netlify / Vercel  
+
+---
+
+
+
+## 📂 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/movie-streaming-app.git
+   cd movie-streaming-app
